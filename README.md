@@ -1,7 +1,7 @@
 phpStorm SpaceGray color scheme
 ==================
 
-phpStorm SpaceGray color is based on SpaceGray theme http://kkga.github.io/spacegray/ originally build for Sublime Text
+phpStorm SpaceGray color is based on SpaceGray theme http://kkga.github.io/spacegray for Sublime Text
 
 ### php Example ###
 ![Php example](http://i.imgur.com/hMbxBI7.png)
@@ -11,7 +11,7 @@ phpStorm SpaceGray color is based on SpaceGray theme http://kkga.github.io/space
 
 ## Installation ##
 
-- Place the `Spacegray.icls` file in you phpStorm folder paths are given below. 
+- Place the `Spacegray.icls` file in your phpStorm folder paths are given below. 
 - Restart the phpStorm
 - `File` -> `Settings` -> `Editor` -> `Colors & Fonts`
 - Select the `Spacegray` theme from the drop down list
