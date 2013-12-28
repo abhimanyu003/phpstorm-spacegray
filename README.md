@@ -4,10 +4,10 @@ phpStorm SpaceGray color scheme
 phpStorm SpaceGray color is based on SpaceGray theme http://kkga.github.io/spacegray for Sublime Text
 
 ### php Example ###
-![Php example](http://i.imgur.com/hMbxBI7.png)
+![Php example](http://i.imgur.com/cW6fu4Z.png)
 
 ### HTML Example ###
-![HTML example](http://i.imgur.com/6srZPvD.png)
+![HTML example](http://i.imgur.com/bFlw2Rr.jpg)
 
 ## Installation ##
 
