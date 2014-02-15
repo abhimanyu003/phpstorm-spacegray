@@ -5,22 +5,22 @@ phpStorm SpaceGray color is based on SpaceGray theme http://kkga.github.io/space
 
 ## SpaceGray Colors ##
 
-### php Example ###
-![Php example](http://i.imgur.com/7Xakbf7.png)
+### PHP Example ###
+![Php example](http://i.imgur.com/Bb3gp3d.png)
 
 ### HTML Example ###
-![HTML example](http://i.imgur.com/6pcqHd8.jpg)
+![HTML example](http://i.imgur.com/LLfVGdA.png)
 
 ----------
 
 ## Eighties Colors ##
 
-### php ###
-![PHP Eaxmple](http://i.imgur.com/skYhiZ1.png)
+### PHP Example ###
+![PHP Eaxmple](http://i.imgur.com/y62LMf6.png)
 
-### HTML ###
+### HTML Example ###
 
-![HTML Example](http://i.imgur.com/jPojgTx.png)
+![HTML Example](http://i.imgur.com/lwWGRo8.png)
 ## Installation ##
 
 - Place the `Spacegray.icls` and `Eighties.icls` file in your phpStorm folder paths are given below. 
