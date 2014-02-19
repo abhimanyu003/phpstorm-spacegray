@@ -992,19 +992,17 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="ffff" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f79057" />
       </value>
     </option>
-    <option name="XML_TAG">
+    <option name="XML_NS_PREFIX">
       <value>
-        <option name="FOREGROUND" value="808000" />
+        <option name="FOREGROUND" value="f79049" />
       </value>
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="ffff00" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f17761" />
       </value>
     </option>
     <option name="YAML_SIGN">

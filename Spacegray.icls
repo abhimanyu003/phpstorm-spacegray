@@ -954,19 +954,28 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="ffff" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="cf8670" />
       </value>
     </option>
-    <option name="XML_TAG">
+    <option name="XML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="808000" />
+        <option name="FOREGROUND" value="cf865f" />
+      </value>
+    </option>
+    <option name="XML_NS_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="cf8670" />
+      </value>
+    </option>
+    <option name="XML_TAG_DATA">
+      <value>
+        <option name="FOREGROUND" value="bfc4cd" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="ffff00" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="be6162" />
       </value>
     </option>
     <option name="YAML_SIGN">
