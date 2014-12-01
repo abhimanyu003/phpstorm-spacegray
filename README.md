@@ -31,19 +31,25 @@ phpStorm SpaceGray color is based on SpaceGray theme http://kkga.github.io/space
 
 ### Ubuntu Linux ###
 
+    For phpstorm version 7.x
     cd ~/.WebIde70/config/colors
-    //If phpStorm 8, it is: cd ~/.WebIde80/config/colors
+    For phpstorm version 8.x
+    cd ~/.WebIde80/config/colors
 
 ### Mac OS X ###
 
+    For phpstorm version 7.x
     cd ~/Library/Preferences/WebIde70/colors/
-    //If phpStorm 8, it is: cd ~/Library/Preferences/WebIde80/colors/
+    For phpstorm version 8.x
+    cd ~/Library/Preferences/WebIde80/colors/
 
 ### Windows ###
 
-    c:/Users/USERNAME/..WebIde70/config/colors
-    //If phpStorm 8, it is:  c:/Users/USERNAME/..WebIde80/config/colors
+    For phpstorm version 7.x
+    c:/Users/USERNAME/.WebIde70/config/colors
+    For phpstorm version 8.x
+    c:/Users/USERNAME/.WebIde80/config/colors
 
-# Contribute #
+# Contribute
 
 Feel free to contribute 
