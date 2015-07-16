@@ -27,28 +27,29 @@ phpStorm SpaceGray color is based on SpaceGray theme http://kkga.github.io/space
 - Then go to `File` -> `Settings` -> `Editor` -> `Colors & Fonts`
 - Select the `Spacegray` or `Eighties` theme from the drop down list
 - Restart the phpStorm
+- Install color IDE plugin to change the color of sidebar.
 
 
 ### Ubuntu Linux ###
 
-    For phpstorm version 7.x
-    cd ~/.WebIde70/config/colors
     For phpstorm version 8.x
     cd ~/.WebIde80/config/colors
+    For phpstorm version 9.x
+    cd ~/.WebIde90/config/colors
 
 ### Mac OS X ###
 
-    For phpstorm version 7.x
-    cd ~/Library/Preferences/WebIde70/colors/
     For phpstorm version 8.x
     cd ~/Library/Preferences/WebIde80/colors/
+    For phpstorm version 9.x
+    cd ~/Library/Preferences/WebIde90/colors/
 
 ### Windows ###
 
-    For phpstorm version 7.x
-    c:/Users/USERNAME/.WebIde70/config/colors
     For phpstorm version 8.x
-    c:/Users/USERNAME/.WebIde80/config/colors
+    c:/Users/USERNAME/.WebIde70/config/colors
+    For phpstorm version 9.x
+    c:/Users/USERNAME/.WebIde90/config/colors
 
 # Contribute
 
