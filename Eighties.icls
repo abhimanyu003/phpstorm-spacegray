@@ -1,7 +1,14 @@
 <scheme name="Eighties" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="454544" />
     <option name="CARET_COLOR" value="ffffff" />
@@ -396,6 +403,12 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="INI.KEY">
+      <value>
+        <option name="FOREGROUND" value="f2777a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
@@ -505,8 +518,20 @@
         <option name="FOREGROUND" value="66cccc" />
       </value>
     </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="f2777a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JSP_SCRIPTING_BACKGROUND">
       <value />
+    </option>
+    <option name="LESS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="f2777a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
@@ -697,7 +722,7 @@
     </option>
     <option name="SASS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="800080" />
+        <option name="FOREGROUND" value="f2777a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -827,6 +852,9 @@
       <value>
         <option name="FOREGROUND" value="f17761" />
       </value>
+    </option>
+    <option name="XSLT_DIRECTIVE">
+      <value />
     </option>
   </attributes>
 </scheme>
