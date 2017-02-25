@@ -6,7 +6,7 @@ phpStorm SpaceGray color is based on SpaceGray theme http://kkga.github.io/space
 ## Fonts
 
 * From Screenshots: [Souce Code Pro](https://github.com/adobe-fonts/source-code-pro) alternate  [Download link](http://www.fontsquirrel.com/fonts/source-code-pro)
-* Other choice [Fira Mono](https://www.google.com/fonts/specimen/Fira+Mono)
+* Other choice [Fira Mono](https://www.google.com/fonts/specimen/Fira+Mono), [Hack](http://sourcefoundry.org/hack/)
 
 ## SpaceGray Colors ##
 
